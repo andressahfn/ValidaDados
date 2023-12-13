@@ -1,13 +1,23 @@
-Implemente um programa que leia, valide e analise dados informados pelo usuário.
+# Analisador de Dados Climáticos
 
-Toda entrada de dados deve ser validada. No caso de valor inválido, informe ao usuário o erro e permita que ele redigite o dado.
+Um programa simples em Python para ler, validar e analisar dados climáticos informados pelo usuário.
 
-Mês: use valor numérico de 1 a 12 (janeiro a dezembro) para se referir aos meses do ano.
+## Entrada de Dados
 
-Temperatura máxima do mês: devem estar em Celsius, garanta que estejam dentro de um intervalo válido para temperaturas, tal como: -60 graus à +50 graus.
+- **Mês:** Valor numérico de 1 a 12 para representar os meses do ano.
+- **Temperatura Máxima do Mês:** Em Celsius, no intervalo de -60 a +50 graus.
 
-• Temperatura média máxima anual: exibe a média das temperaturas máximas informadas.
-• Quantidade de meses escaldantes: quantidade de meses com temperaturas acima de 38  graus Celsius.
-• Mês mais escaldante do ano: mês que registrou a maior temperatura máxima dentre todos os informados.
-• Mês menos quente do ano: mês que registrou a menor temperatura máxima dentre todos os informados.
+Toda entrada de dados é validada. Em caso de valor inválido, o programa informa o erro e permite que o usuário redigite o dado.
 
+## Funcionalidades
+
+1. **Temperatura Média Máxima Anual:** Exibe a média das temperaturas máximas informadas.
+2. **Quantidade de Meses Escaldantes:** Indica a quantidade de meses com temperaturas acima de 38 graus Celsius.
+3. **Mês Mais Escaldante do Ano:** Identifica o mês que registrou a maior temperatura máxima dentre todos os informados.
+4. **Mês Menos Quente do Ano:** Identifica o mês que registrou a menor temperatura máxima dentre todos os informados.
+
+## Como Usar
+
+1. Execute o programa.
+2. Siga as instruções para fornecer os dados de cada mês.
+3. O programa calculará automaticamente as estatísticas climáticas.
