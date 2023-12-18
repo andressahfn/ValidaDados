@@ -1,4 +1,4 @@
-# Analisador de Dados Climáticos
+# Análise de Dados Climáticos
 
 Um programa simples em Python para ler, validar e analisar dados climáticos informados pelo usuário.
 
@@ -21,3 +21,7 @@ Toda entrada de dados é validada. Em caso de valor inválido, o programa inform
 1. Execute o programa.
 2. Siga as instruções para fornecer os dados de cada mês.
 3. O programa calculará automaticamente as estatísticas climáticas.
+
+## Projeto Acadêmico
+
+Este projeto foi desenvolvido como parte de um trabalho acadêmico na faculdade. Ele tem como objetivo demonstrar habilidades de programação em Python e análise de dados climáticos. Caso tenha dúvidas ou sugestões, sinta-se à vontade para entrar em contato.
